@@ -38,10 +38,7 @@ This project uses a Convolutional Neural Network (CNN) to classify food images i
 ### 🔹 Accuracy & Loss Graph
 ![Model Accuracy & Loss](./outputs/Model_Loss_AND_Accuracy.png)
 
-### 📈 ROC Curve
-
-This curve shows the performance of the model across different thresholds.
-
+### 🔹 📈 ROC Curve
 ![ROC Curve](OUTPUTS/ROC_curve.png)
 
 ## 🛠️ Requirements
